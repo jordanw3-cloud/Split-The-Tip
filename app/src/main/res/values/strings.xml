@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Split-The-Tip</string>
+    <string name="app_title">Split The Tip</string>
+    <string name="enter_bill_amount">Enter Bill Amount</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="get_split_tip">Get Tip</string>
+    <string name="get_the_tip_per_person">Tip Each Person Pays</string>
+    <string name="quality_of_service">Rate Service:</string>
+
+    <string-array name="tipStringArray">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
